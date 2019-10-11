@@ -1,0 +1,22 @@
+{
+  "name": "@abadri-test/consumer-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abadri/consumer-b.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abadri/consumer-b/issues"
+  },
+  "homepage": "https://github.com/abadri/consumer-b#readme",
+  "dependencies": {
+    "@abadri-test/my-yarn-test": "~1.2.0"
+  }
+}
